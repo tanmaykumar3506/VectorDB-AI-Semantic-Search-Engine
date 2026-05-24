@@ -338,9 +338,3 @@ Then edit [main.cpp](main.cpp) line where `genModel` is set:
 std::string genModel = "llama3.2:1b";   // change this
 ```
 Recompile and restart.
-
----
-
-## License
-
-MIT — use this however you want.
